@@ -1,0 +1,49 @@
+{
+  "University": [
+    {
+      "id": 1,
+      "name": "Sebastian",
+      "description": "Eschweiler",
+      "country": "sebastian@codingthesmartway.com",
+       "city": "khi",
+      "faculties": "bscs",
+      "contactInfo": "+923112167392",
+      "rate": 10.2,
+     "state": "sindh",
+      "certifications": "bscs",
+      "extraInfo": "upadting",
+      "imgUrl": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"
+    },
+    {
+       "id": 1,
+      "name": "Sebastian",
+      "description": "Eschweiler",
+      "country": "sebastian@codingthesmartway.com",
+       "city": "khi",
+      "faculties": "bscs",
+      "contactInfo": "+923112167392",
+      "rate": 10.2,
+     "state": "sindh",
+      "certifications": "bscs",
+      "extraInfo": "upadting",
+      "imgUrl": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"
+    },
+    {
+       "id": 1,
+      "name": "Sebastian",
+      "description": "Eschweiler",
+      "country": "sebastian@codingthesmartway.com",
+       "city": "khi",
+      "faculties": "bscs",
+      "contactInfo": "+923112167392",
+      "rate": 10.2,
+     "state": "sindh",
+      "certifications": "bscs",
+      "extraInfo": "upadting",
+      "imgUrl": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"
+    }
+  ]
+}
+
+
+
