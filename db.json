@@ -15,7 +15,8 @@
       "imageUrl": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png",
       "testName" : "khokhar",
       "score" : "10",
-      "schoolType" : "fuuasted"
+      "schoolType" : "fuuasted",
+      "degreeType" : "bscs"
     },
     {
        "id": 2,
