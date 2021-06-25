@@ -3,10 +3,10 @@
     {
       "id": 1,
       "name": "Fuuast",
-      "description": "Eschweiler",
+      "description": "The Federal Urdu University of Arts, Science and Technology; alternatively known as FUUAST is a public university primarily located at Islamabad, Pakistan. The university has two satellite campuses; the central campus is located in Islamabad while the secondary campus is located in Karachi.",
       "country": "Pakistan",
        "city": "karachi",
-      "faculties": "bscs",
+      "faculties": "Computer science",
       "contactInfo": "+92",
       "rate": 10.2,
      "state": "sindh",
@@ -17,7 +17,7 @@
     {
        "id": 2,
       "name": "university of peshawar",
-      "description": "Eschweiler",
+      "description": "The University of Peshawar is a public research university located in Peshawar, Khyber Pakhtunkhwa, Pakistan. The university is one of the oldest universities in the province, and is ranked as one of the highest rated universities in the country.",
       "country": "Pakistan",
        "city": "peshawar",
       "faculties": "bscs",
@@ -31,7 +31,7 @@
     {
        "id": 3,
       "name": "university of lahore",
-      "description": "Eschweiler",
+      "description": "The University of lahore is a public research university located in Peshawar, Khyber Pakhtunkhwa, Pakistan. The university is one of the oldest universities in the province, and is ranked as one of the highest rated universities in the country.",
       "country": "Pakistan",
        "city": "lahore",
       "faculties": "bscs",
