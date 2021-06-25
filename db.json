@@ -13,13 +13,7 @@
       "certifications": "bscs",
       "extraInfo": "upadting",
       "imageUrl": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png",
-      "testName" : "khokhar",
-      "score" : "10",
-      "schoolType" : "fuuasted",
-      "degreeType" : "bscs",
-      "gender" : "male",
-      "age" : "19",
-      "other" : "other"
+  
       
       
     },
@@ -36,8 +30,7 @@
       "certifications": "bscs",
       "extraInfo": "upadting",
       "imageUrl": "http://www.uop.edu.pk/maingallery/syndicatemeeting2262021.jpeg",
-      "testName" : "ali",
-      "constrains": "working on it"
+    
     },
     {
        "id": 3,
@@ -52,7 +45,7 @@
       "certifications": "bscs",
       "extraInfo": "upadting",
       "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fstep.pgc.edu%2Fnews%2Funiversity-lahore-uol-admissions-spring-2018%2F&psig=AOvVaw14INqMjIwXaPTljNgnM-pR&ust=1624697459304000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNDcgOqzsvECFQAAAAAdAAAAABAD",
-      "testName" : "shahbaz"
+    
     }
   ]
 }
