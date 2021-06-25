@@ -16,7 +16,12 @@
       "testName" : "khokhar",
       "score" : "10",
       "schoolType" : "fuuasted",
-      "degreeType" : "bscs"
+      "degreeType" : "bscs",
+      "gender" : "male",
+      "age" : "19",
+      "other" : "other"
+      
+      
     },
     {
        "id": 2,
