@@ -46,11 +46,17 @@
       "imgUrl": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"    
     },
     {
-      "id": 4,
-      "eligibilityId": 4,
-      "benefitId": 4,
-      "universityId": 4,
+
+     "Opportunity": [
+    {
+      "id": 1,
+      "eligibilityId": 1,
+      "benefitId": 1,
+      "universityId": 1,
       "university": "Nile",
+      "universityName": "Nile",
+      "financialAid": "financialAid",
+      "applicationProcess": "applicationProcess",
       "benefits": "Benefits",
       "eligibility": "Eligibility",
       "universityName": "Nile univercity_banque misr foundation for social development scholarship",
@@ -72,12 +78,17 @@
       "age": "18-24",
       "startDate": "upadting",
       "title": "Nile univercity",
-      "medical" : "udating" ,
+      "medical" : "tested" ,
        "salary": "Total Value: $8000 as $2000 renewable award each year",
        "accommodation" : "Allowance for accommodation in university shared a dormitory",
-         "imgUrl": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"
+         "imageUrl": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"
+
     }
+]
+}
+   
   ]
+  
 }
 
 
