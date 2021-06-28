@@ -1,55 +1,74 @@
 {
-  "University": [
+  "Opportunity": [
     {
       "id": 1,
-      "name": "Fuuast",
-      "description": "The Federal Urdu University of Arts, Science and Technology; alternatively known as FUUAST is a public university primarily located at Islamabad, Pakistan. The university has two satellite campuses; the central campus is located in Islamabad while the secondary campus is located in Karachi.",
-      "country": "Pakistan",
-       "city": "karachi",
-      "faculties": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png",
-      "contactInfo": "(091) 9216701",
-      "rate": 10,
-     "state": "sindh",
-      "certifications": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png",
-      "extraInfo": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png",
-      "imgUrl": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"  
-      
-      
-      
+      "eligibilityId": 1,
+      "benefitId": 1,
+      "universityId": 1,
+      "university": "Nile",
+      "benefits": "Benefits",
+      "eligibility": "Eligibility",
+      "universityName": "Nile univercity_banque misr foundation for social development scholarship",
+      "financialAid": 23.3,
+      "applicationProcess": "bscs",
+      "extraInfo": "upadting",
+      "otherLanguageTests": "english,urdu,sindh",
+      "applicationDeadline": "31/08/2020",
+      "description": "Trusted results for Bible College In Us. Check Visymo Search for the best results! Unlimited Access. Privacy Friendly. Always Facts. 100% Secure. The Best Resources. Results & Answers. Types: Best Results, Explore Now, New Sources, Best in Search.",
+      "deliveryMode": "Eschweiler",
+      "duration": "More than year",
+      "fundType": "fully/partically funded",
+      "ieltsLevel": "7/9 MIN.score",
+      "toeflLevel": "500/667 MIN. Score",
+      "specialization": "Online Courses from Top Institutions - Gain New Skills & Earn a Certificate of Completion. Enrol today using UPI, popular debit & credit cards, EMI, Netbanking, and digital wallets. 24/7 Customer Support. Real-world Projects. Online Certification. Learn On Any Device.",
+      "neededLanguageInfo": "english,urdu,sindh",
+      "aidCoverage": "bscs",
+      "gender" : "ALL",
+      "age": "18-24",
+      "startDate": "upadting",
+      "title": "Nile univercity",
+      "medical" : "" ,
+       "salary": "Total Value: $8000 as $2000 renewable award each year",
+       "accommodation" : "Allowance for accommodation in university shared a dormitory",
+         "imageUrl": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"
+
     },
-    {
-       "id": 2,
-      "name": "university of peshawar",
-      "description": "The University of Peshawar is a public research university located in Peshawar, Khyber Pakhtunkhwa, Pakistan. The university is one of the oldest universities in the province, and is ranked as one of the highest rated universities in the country.",
-      "country": "Pakistan",
-       "city": "peshawar",
-      "faculties": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png",
-      "contactInfo": "+92",
-      "rate": 10.2,
-     "state": "sindh",
-      "certifications": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png",
-      "extraInfo": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png",
-      "imgUrl": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"    
+       {
+      "id": 2,
+      "eligibilityId": 2,
+      "benefitId": 2,
+      "universityId": 2,
+      "university": "Nile",
+      "benefits": "Benefits",
+      "eligibility": "Eligibility",
+      "universityName": "Niles univercity_banque misr foundation for social development scholarship",
+      "financialAid": 23.3,
+      "applicationProcess": "bscs",
+      "extraInfo": "upadting",
+      "otherLanguageTests": "english,urdu,sindh",
+      "applicationDeadline": "31/08/2020",
+      "description": "Trusted results for Bible College In Us. Check Visymo Search for the best results! Unlimited Access. Privacy Friendly. Always Facts. 100% Secure. The Best Resources. Results & Answers. Types: Best Results, Explore Now, New Sources, Best in Search.",
+      "deliveryMode": "Eschweiler",
+      "duration": "More than year",
+      "fundType": "fully/partically funded",
+      "ieltsLevel": "7/9 MIN.score",
+      "toeflLevel": "500/667 MIN. Score",
+      "specialization": "Online Courses from Top Institutions - Gain New Skills & Earn a Certificate of Completion. Enrol today using UPI, popular debit & credit cards, EMI, Netbanking, and digital wallets. 24/7 Customer Support. Real-world Projects. Online Certification. Learn On Any Device.",
+      "neededLanguageInfo": "english,urdu,sindh",
+      "aidCoverage": "bscs",
+      "gender" : "ALL",
+      "age": "18-24",
+      "startDate": "upadting",
+      "title": "Niles univercity",
+      "medical" : "" ,
+      "salary": "Total Value: $8000 as $2000 renewable award each year",
+      "accommodation" : "Allowance for accommodation in university shared a dormitory",
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fstep.pgc.edu%2Fnews%2Funiversity-lahore-uol-admissions-spring-2018%2F&psig=AOvVaw14INqMjIwXaPTljNgnM-pR&ust=1624697459304000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNDcgOqzsvECFQAAAAAdAAAAABAD"
+
+
     },
-    {
-       "id": 3,
-      "name": "university of lahore",
-      "description": "The University of lahore is a public research university located in Peshawar, Khyber Pakhtunkhwa, Pakistan. The university is one of the oldest universities in the province, and is ranked as one of the highest rated universities in the country.",
-      "country": "Pakistan",
-       "city": "lahore",
-      "faculties": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png",
-      "contactInfo": "+92",
-      "rate": 10.2,
-     "state": "sindh",
-      "certifications": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png",
-      "extraInfo": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png",
-      "imgUrl": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"    
-    }
     
-        
-   
   ]
-  
 }
 
 
