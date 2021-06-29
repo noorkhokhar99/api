@@ -1,11 +1,11 @@
 {
   "Opportunity": [
     {
-      "id": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png",
+      "id": "1",
       "eligibilityId": 1,
       "benefitId": 1,
       "universityId": 1,
-      "universityName": "Nile univercity_banque misr foundation for social development scholarship",
+      "universityName": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png",
       "financialAid": 23.3,
       "applicationProcess": "bscs",
       "extraInfo": "upadting",
